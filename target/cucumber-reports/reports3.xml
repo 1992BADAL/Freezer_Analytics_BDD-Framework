@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="1" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.354">
+    <testcase classname="Add Templates" name="Add a new Template to the manage templates field." time="0.063">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given User launch Chrome browser and Open the URL "https://freezer-analytics.web.app".undefined
+And Enter emailId and Password..............................................skipped
+And Click on login btn......................................................skipped
+Then Verify dashboard page..................................................skipped
+Then Go to the Manage Template section......................................skipped
+Then Click on Add Template..................................................skipped
+And Write a Template Name...................................................skipped
+And Select type of Template.................................................skipped
+And Click on Choose file for Upload image...................................skipped
+Then Click on Submit btn....................................................skipped
+Then Search the Template Name on Search field abd Verify in Table...........skipped
+And Click on View Template..................................................skipped
+And Click on Edit Template..................................................skipped
+And Click on Delete Template................................................skipped
+And Click on Logout.........................................................skipped
+Then Driver close...........................................................skipped
+]]></failure>
+    </testcase>
+</testsuite>
